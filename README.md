@@ -2,7 +2,7 @@
 
 Project name - Web Portfolio landing page.
 
-Author name - Eugene Masinde.
+Author name - Eugene
 
 Decsription - The website uses the following languages: -HTML -CSS.
 
